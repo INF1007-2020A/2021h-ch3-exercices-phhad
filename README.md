@@ -2,15 +2,16 @@
 
 
 
+
 ## Résultats
 Score | Critères
 --- | ---
 1/1 | Calcul de la moyenne de 3 nombres
 0/1 | Calcul du carré
 1/1 | Calcul de la racine carré
-0/1 | Conversion Farenheit -> Celsius
+1/1 | Conversion Farenheit -> Celsius
 0/1 | Conversion radians -> degrés
-1/1 | Conversion Celsius -> Farenheit
+0/1 | Conversion Celsius -> Farenheit
 0/1 | Conversion degrés -> radians
 3/7 | **Total**
 
