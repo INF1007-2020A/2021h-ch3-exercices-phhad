@@ -9,7 +9,7 @@ def square_root(a: float) -> float:
     return square_r
 
 def square(a: float) -> float:
-    squarre = a*a
+    squarre = a**2
     return squarre
 
 
