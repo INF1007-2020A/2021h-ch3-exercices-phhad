@@ -14,7 +14,7 @@ Traceback (most recent call last):
     output = [exercice.to_farenheit(v) for v in values]
   File "test_exercice.py", line 104, in <listcomp>
     output = [exercice.to_farenheit(v) for v in values]
-  File "/home/runner/work/2021h-ch3-exercices-phhad/2021h-ch3-exercices-phhad/exercice.py", line 36, in to_farenheit
+  File "/home/runner/work/2021h-ch3-exercices-phhad/2021h-ch3-exercices-phhad/exercice.py", line 37, in to_farenheit
     temp_f = (temperature()*1.8) + 32
 TypeError: 'int' object is not callable
 
