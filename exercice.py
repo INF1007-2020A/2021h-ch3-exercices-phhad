@@ -5,18 +5,19 @@
 import math
 
 def square_root(a: float) -> float:
-    return 0.0
-
+    return math.sqrt(a)
 
 def square(a: float) -> float:
-    return 0.0
+    return a^2
 
 
 def average(a: float, b: float, c: float) -> float:
-    return 0.0
+    ave = (a+b+c)/3
+    return ave
 
 
 def to_radians(angle_degs: float, angle_mins: float, angle_secs: float) -> float:
+
     return 0.0
 
 
@@ -29,7 +30,8 @@ def to_celsius(temperature: float) -> float:
 
 
 def to_farenheit(temperature: float) -> float:
-    return 0.0
+    temp_f = temperature*1.8 + 32
+    return temp_f
 
 
 def main() -> None:
